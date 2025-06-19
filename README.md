@@ -8,7 +8,7 @@
 
 # Screenshot
 
-![Nasa Photo Page](https://raw.githubusercontent.com/joeaoregan/react-apod-api-app/master/Screenshots/screenshot1.png "Nasa Photo of the Day 19/06/2025")
+![Nasa Photo Page](https://raw.githubusercontent.com/joeaoregan/react-apod-api-app/master/Screenshots/screenshot1.jpg "Nasa Photo of the Day 19/06/2025")
 
 ---
 

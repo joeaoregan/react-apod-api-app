@@ -6,6 +6,12 @@
 
 ---
 
+# Screenshot
+
+![Nasa Photo Page](https://raw.githubusercontent.com/joeaoregan/react-apod-api-app/master/Screenshots/screenshot1.png "Nasa Photo of the Day 19/06/2025")
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,3 +1,11 @@
+# React App Using Nasa APOD API
+
+[Slightly modified from this tutorial by Kapehe on YouTube](https://www.youtube.com/watch?v=H1nENYv-r_w)
+
+[Nasa APIs](https://api.nasa.gov/)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

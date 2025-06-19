@@ -2,13 +2,18 @@
 
 [Slightly modified from this tutorial by Kapehe on YouTube](https://www.youtube.com/watch?v=H1nENYv-r_w)
 
-[Nasa APIs](https://api.nasa.gov/)
-
 ---
 
 # Screenshot
 
 ![Nasa Photo Page](https://raw.githubusercontent.com/joeaoregan/react-apod-api-app/master/Screenshots/screenshot1.jpg "Nasa Photo of the Day 19/06/2025")
+
+---
+
+# References
+
+[Nasa APIs](https://api.nasa.gov/)
+[Deploying a React App* to GitHub Pages](https://github.com/gitname/react-gh-pages)
 
 ---
 

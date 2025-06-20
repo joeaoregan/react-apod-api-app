@@ -4,6 +4,8 @@
 
 [React APOD API App](https://joeaoregan.github.io/react-apod-api-app)
 
+[creating configuration variables for an environment](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/store-information-in-variables#creating-configuration-variables-for-an-environment)
+
 ---
 
 # Screenshot

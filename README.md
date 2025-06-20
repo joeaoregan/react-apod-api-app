@@ -12,8 +12,9 @@
 
 # References
 
-[Nasa APIs](https://api.nasa.gov/)
+[Nasa APIs](https://api.nasa.gov/)\
 [Deploying a React App* to GitHub Pages](https://github.com/gitname/react-gh-pages)
+
 
 ---
 

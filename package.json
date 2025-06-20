@@ -1,9 +1,9 @@
 {
-  "name": "react-nasa-apod",
+  "name": "react-apod-api-app",
   "version": "0.1.0",
-  "homepage": "https://joeaoregan@github.io/react-apod-api-app",
+  "homepage": "https://joeaoregan.github.io/react-apod-api-app",
   "private": true,
-  "main": "/src/Home.js",
+  "main": "/src/index.js",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -29,6 +29,9 @@
       "react-app/jest"
     ]
   },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -40,8 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
   }
 }

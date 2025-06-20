@@ -9,7 +9,8 @@ function App() {
     <BrowserRouter>
       <Routes className="app">
         <Route path="/" Component={Home} exact />
-        <Route Component={NasaPhoto} path="/nasaphoto" />
+        <Route path="/react-apod-api-app" Component={Home} />
+        <Route path="/nasaphoto" Component={NasaPhoto} />
       </Routes>
     </BrowserRouter>
   );

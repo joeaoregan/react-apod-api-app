@@ -2,15 +2,15 @@
 
 [Slightly modified from this tutorial by Kapehe on YouTube](https://www.youtube.com/watch?v=H1nENYv-r_w)
 
-[React APOD API App](https://joeaoregan.github.io/react-apod-api-app)
-
-[creating configuration variables for an environment](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/store-information-in-variables#creating-configuration-variables-for-an-environment)
+[React APOD API App](https://joeaoregan.github.io/react-apod-api-app) (App deployed on GitHub Pages)
 
 ---
 
 # Screenshot
 
-![Nasa Photo Page](https://raw.githubusercontent.com/joeaoregan/react-apod-api-app/master/Screenshots/screenshot1.jpg "Nasa Photo of the Day 19/06/2025")
+| ![Nasa Photo Page](https://raw.githubusercontent.com/joeaoregan/react-apod-api-app/master/Screenshots/screenshot1.jpg "Nasa Photo of the Day 19/06/2025") |
+|:--:| 
+| *Example Nasa - Astronomy Picture of the Day from 19/06/2025* |
 
 ---
 
@@ -18,6 +18,8 @@
 
 [Nasa APIs](https://api.nasa.gov/)\
 [Deploying a React App* to GitHub Pages](https://github.com/gitname/react-gh-pages)
+
+[creating configuration variables for an environment](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/store-information-in-variables#creating-configuration-variables-for-an-environment)
 
 
 ---
